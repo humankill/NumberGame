@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>
-		
+		JS -- Number guessing
 	</title>
 </head>
 <body>
